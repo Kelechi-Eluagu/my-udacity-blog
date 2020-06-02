@@ -2020,6 +2020,9 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
 		}
+		#centerText {
+			text-align: center;
+		}
 
 		.icon:before {
 			line-height: inherit;
