@@ -1,3 +1,0 @@
-# devgist
-
-# blog for developers
